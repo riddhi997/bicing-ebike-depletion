@@ -1,0 +1,20 @@
+# Core data science
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Geospatial (Step 3 cluster map)
+geopandas>=0.13.0
+contextily>=1.3.0
+shapely>=2.0.0
+
+# Weather data (Step 2)
+openmeteo-requests>=1.1.0
+requests-cache>=1.0.0
+retry-requests>=2.0.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
